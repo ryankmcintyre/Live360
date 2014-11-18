@@ -1,0 +1,35 @@
+﻿/* Place custom styles below */
+
+/* Fix page title orientation and sizes */
+.ms-core-pageTitle {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#DeltaPlaceHolderPageTitleInTitleArea {
+    font-size: 36px;
+    line-height: normal;
+}
+
+/* Fix help and full screen icons */
+.s4-clust {
+    top: 6px;
+}
+
+.ms-qatbutton {
+    display: inline-block;
+}
+
+#fullscreenmode > a > span {
+    display: inline !important;
+}
+
+#ms-help > a > span {
+    display: inline !important;
+    padding-left: 6px !important;
+    padding-top: 3px !important;
+}
+
+#ms-help > a > span > span {
+    top: 9px;
+}

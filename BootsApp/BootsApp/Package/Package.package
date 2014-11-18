@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="70b72f1f-7852-402f-9c3d-f10ef8ac3297" 
+        solutionId="70b72f1f-7852-402f-9c3d-f10ef8ac3297" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BootsApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f61fbde6-1404-4389-a7ed-d2708fc6f315" />
+  </features>
+</package>
