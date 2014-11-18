@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Bootstrap Form</title>
+    <!--#region Bootstrap Include-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+    <!--#endregion-->
+  </head>
+
+<body>
+  <!-- Bootstrap Nav, full nav turns into button when on narrow screen -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Contoso</a>
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contacts</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="page-header" style="padding: 40px 20px;">
+      <h1>Bootstrap-ified Expense Form</h1>
+      <p class="lead bg-info">Enter your expense info below and click submit</p> <!-- Lead with informational background -->
+    </div>
+    <!-- Form classes auto-format controls, using grid system ensures proper wrapping on smaller screens -->
+    <form role="form">
+      <div>
+        <div class="col-md-6 form-group">
+          Date: <input type="text" id="txtDate" class="form-control" /><br />
+          Description: <input type="text" size="50" maxlength="50" id="txtDescription" class="form-control" /><br />
+          Attendees:  <input type="text" size="5" maxlength="2" id="txtAttendees" class="form-control" /><br />
+        </div>
+        <div class="col-md-6 form-group">
+          Mileage:
+          <select id="selMileage" class="form-control">
+            <option value="1">< 10 miles</option>
+            <option value="2">10 - 30 miles</option>
+            <option value="3">> 30 miles</option>
+          </select><br />
+          Amount: <input type="text" size="10" maxlength="5" id="txtAmount" class="form-control" /><br />
+        </div>
+      </div>
+      <div class="clearfix"></div> <!-- Simple clearfix class instead of style="clear:both" -->
+      <div>
+        <input class="btn btn-lg btn-default" type="submit" id="btnSubmit" value="Submit" />
+      </div>
+   </form>
+  </div><!-- /.container -->
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+</body>
+</html>

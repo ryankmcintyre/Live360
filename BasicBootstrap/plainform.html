@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Plain Form</title>
+  </head>
+
+<body>
+
+  <nav>
+    <div>
+      <div>
+        <a class="navbar-brand" href="#">Project name</a>
+      </div>
+      <div>
+        <ul>
+          <li style="display:inline;"><a href="#">Home</a></li>
+          <li style="display:inline;"><a href="#about">About</a></li>
+          <li style="display:inline;"><a href="#contact">Contacts</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+
+    <div class="header">
+      <h1>Plain 'ol HTML Expense Form</h1>
+      <p class="lead">Enter your expense info below<br />and click submit</p>
+    </div>
+    <div class="formbody" style="padding:5px">
+      <div class="left" style="float:left; padding:5px">
+        Date: <input type="text" id="txtDate" /><br />
+        Description: <input type="text" size="50" maxlength="50" id="txtDescription" /><br />
+        Attendees:  <input type="text" size="5" maxlength="2" id="txtAttendees" /><br />
+      </div>
+      <div class="right" style="padding:5px">
+        Mileage:
+        <select id="selMileage">
+          <option value="1">< 10 miles</option>
+          <option value="2">10 - 30 miles</option>
+          <option value="3">> 30 miles</option>
+        </select><br />
+        Amount: <input type="text" size="10" maxlength="5" id="txtAmount" /><br />
+      </div>
+      <div style="clear:both"></div>
+      <div class="bottom" style="padding:5px">
+        <input type="submit" id="btnSubmit" value="Submit" />
+      </div>
+    </div>
+
+  </div><!-- /.container -->
+
+</body>
+</html>
