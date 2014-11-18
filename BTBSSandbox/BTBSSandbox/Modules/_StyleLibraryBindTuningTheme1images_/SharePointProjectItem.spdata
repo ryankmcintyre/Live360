@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\images\logo.png" Target="Files\Style_Library\BindTuningTheme1\images\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\images\menu-down.gif" Target="Files\Style_Library\BindTuningTheme1\images\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\images\menu-right.gif" Target="Files\Style_Library\BindTuningTheme1\images\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\images\search.gif" Target="Files\Style_Library\BindTuningTheme1\images\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_StyleLibraryBindTuningTheme1images_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

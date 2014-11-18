@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.eot" Target="Files\Style_Library\BindTuningTheme1\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.svg" Target="Files\Style_Library\BindTuningTheme1\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.ttf" Target="Files\Style_Library\BindTuningTheme1\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.woff" Target="Files\Style_Library\BindTuningTheme1\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\fonts\FontAwesome.otf" Target="Files\Style_Library\BindTuningTheme1\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_StyleLibraryBindTuningTheme1fonts_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

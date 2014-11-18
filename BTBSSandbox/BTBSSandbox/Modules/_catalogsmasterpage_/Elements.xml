@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpage_" Url="_catalogs/masterpage" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Path="TheBootstrapThemeBasicProjectPage.BT.aspx" Url="TheBootstrapThemeBasicProjectPage.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Basic Project Page.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeBlankCatalogItem.BT.aspx" Url="TheBootstrapThemeBlankCatalogItem.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Blank Catalog Item.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeBlankWebpartPage.BT.aspx" Url="TheBootstrapThemeBlankWebpartPage.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Blank Webpart Page.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_welcomepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+		</File>
+		<File Path="TheBootstrapThemeBodyOnly.BT.aspx" Url="TheBootstrapThemeBodyOnly.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Body Only.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeEnterpriseWiki.BT.aspx" Url="TheBootstrapThemeEnterpriseWiki.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Enterprise Wiki.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeError.BT.aspx" Url="TheBootstrapThemeError.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Error.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeImageLeft.BT.aspx" Url="TheBootstrapThemeImageLeft.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Image Left.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeImageRight.BT.aspx" Url="TheBootstrapThemeImageRight.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Image Right.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeRedirect.BT.aspx" Url="TheBootstrapThemeRedirect.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Redirect.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeSummaryLinks.BT.aspx" Url="TheBootstrapThemeSummaryLinks.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Summary Links.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_articlepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+		</File>
+		<File Path="TheBootstrapThemeWelcomeLinks.BT.aspx" Url="TheBootstrapThemeWelcomeLinks.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Welcome Links.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_welcomepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+		</File>
+		<File Path="TheBootstrapThemeWelcomeSplash.BT.aspx" Url="TheBootstrapThemeWelcomeSplash.BT.aspx" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+		  	<Property Name="UIVersion" Value="15"></Property>
+			<Property Name="Title" Value="Welcome Splash.BT" />
+		  	<Property Name="MasterPageDescription" Value="Layout for site pages" />
+			<Property Name="PublishingHidden" Value="FALSE" />			<Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+		  	<Property Name="PublishingAssociatedContentType" Value=";#$Resources:cmscore,contenttype_welcomepage_name;;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+		</File>
+	</Module>
+</Elements>

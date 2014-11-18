@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\BindMENU.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\bootstrap.min.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\BT.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\fix-responsive-WP8.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\html5shiv.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\jquery.min.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\path.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\js\respond.min.js" Target="Files\Style_Library\BindTuningTheme1\js\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_StyleLibraryBindTuningTheme1js_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

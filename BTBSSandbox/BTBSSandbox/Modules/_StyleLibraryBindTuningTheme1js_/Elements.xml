@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_StyleLibraryBindTuningTheme1js_" Url="Style Library/BindTuningTheme1/js" RootWebOnly="FALSE" Path="Files\Style_Library\BindTuningTheme1\js" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="BindMENU.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="BindMENU.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="BindMENU.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="bootstrap.min.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="bootstrap.min.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="bootstrap.min.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="BT.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="BT.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="BT.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fix-responsive-WP8.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fix-responsive-WP8.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fix-responsive-WP8.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="html5shiv.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="html5shiv.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="html5shiv.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="jquery.min.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="jquery.min.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="jquery.min.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="path.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="path.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="path.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="respond.min.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="respond.min.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="respond.min.js" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/js" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+	</Module>
+</Elements>

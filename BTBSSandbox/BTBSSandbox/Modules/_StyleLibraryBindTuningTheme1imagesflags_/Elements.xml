@@ -1,0 +1,1509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_StyleLibraryBindTuningTheme1imagesflags_" Url="Style Library/BindTuningTheme1/images/flags" RootWebOnly="FALSE" Path="Files\Style_Library\BindTuningTheme1\images\flags" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="af-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="af-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="af-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-AE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-AE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-AE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-az-cyrl.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-az-cyrl.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-az-cyrl.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-az-latn.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-az-latn.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-az-latn.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-BH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-BH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-BH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-DZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-DZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-DZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-EG.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-EG.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-EG.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-IQ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-IQ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-IQ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-JO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-JO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-JO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-KW.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-KW.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-KW.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-LB.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-LB.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-LB.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-LY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-LY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-LY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-MA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-MA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-MA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-OM.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-OM.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-OM.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-QA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-QA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-QA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-SA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-SA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-SA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-SY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-SY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-SY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-TN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-TN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-TN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ar-YE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ar-YE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ar-YE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="arn-CL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="arn-CL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="arn-CL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="as-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="as-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="as-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="az-AZ-Cyrl.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="az-AZ-Cyrl.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="az-AZ-Cyrl.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="az-AZ-Latn.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="az-AZ-Latn.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="az-AZ-Latn.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="az-Cyrl-AZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="az-Cyrl-AZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="az-Cyrl-AZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="az-Latn-AZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="az-Latn-AZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="az-Latn-AZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ba-RU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ba-RU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ba-RU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="be-BY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="be-BY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="be-BY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="bg-BG.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="bg-BG.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="bg-BG.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="bn-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="bn-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="bn-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="bo-CN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="bo-CN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="bo-CN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="br-FR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="br-FR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="br-FR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ca-ES.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ca-ES.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ca-ES.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="co-FR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="co-FR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="co-FR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="cs-CZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="cs-CZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="cs-CZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="cy-GB.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="cy-GB.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="cy-GB.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="da-DK.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="da-DK.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="da-DK.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="de-AT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="de-AT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="de-AT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="de-CH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="de-CH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="de-CH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="de-DE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="de-DE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="de-DE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="de-LI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="de-LI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="de-LI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="de-LU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="de-LU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="de-LU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="div-MV.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="div-MV.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="div-MV.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="dsb-DE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="dsb-DE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="dsb-DE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="dv-MV.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="dv-MV.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="dv-MV.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="el-GR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="el-GR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="el-GR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-AU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-AU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-AU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-BZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-BZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-BZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-CA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-CA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-CA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-CB.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-CB.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-CB.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-GB.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-GB.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-GB.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-IE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-IE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-IE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-JM.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-JM.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-JM.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-MY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-MY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-MY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-NZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-NZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-NZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-PH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-PH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-PH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-TT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-TT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-TT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-US.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-US.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-US.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="en-ZW.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="en-ZW.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="en-ZW.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-AR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-AR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-AR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-BO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-BO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-BO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-CL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-CL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-CL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-CO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-CO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-CO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-CR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-CR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-CR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-DO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-DO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-DO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-EC.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-EC.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-EC.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-ES.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-ES.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-ES.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-GT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-GT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-GT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-HN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-HN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-HN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-MX.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-MX.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-MX.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-NI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-NI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-NI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-PA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-PA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-PA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-PE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-PE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-PE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-PR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-PR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-PR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-PY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-PY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-PY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-SV.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-SV.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-SV.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-US.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-US.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-US.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-UY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-UY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-UY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="es-VE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="es-VE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="es-VE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="et-EE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="et-EE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="et-EE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="eu-ES.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="eu-ES.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="eu-ES.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fa-IR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fa-IR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fa-IR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fi-FI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fi-FI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fi-FI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fo-FO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fo-FO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fo-FO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-BE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-BE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-BE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-CA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-CA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-CA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-CH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-CH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-CH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-FR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-FR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-FR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-LU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-LU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-LU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fr-MC.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fr-MC.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fr-MC.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fy-NL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fy-NL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fy-NL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ga-IE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ga-IE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ga-IE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="gd-GB.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="gd-GB.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="gd-GB.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="gl-ES.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="gl-ES.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="gl-ES.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="gsw-FR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="gsw-FR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="gsw-FR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="gu-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="gu-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="gu-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="he-IL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="he-IL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="he-IL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="hi-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="hi-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="hi-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="hr-HR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="hr-HR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="hr-HR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="hsb-DE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="hsb-DE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="hsb-DE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="hu-HU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="hu-HU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="hu-HU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="hy-AM.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="hy-AM.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="hy-AM.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="id-ID.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="id-ID.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="id-ID.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ii-CN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ii-CN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ii-CN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="is-IS.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="is-IS.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="is-IS.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="it-CH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="it-CH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="it-CH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="it-IT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="it-IT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="it-IT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="iu-Cans-CA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="iu-Cans-CA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="iu-Cans-CA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="iu-Latn-CA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="iu-Latn-CA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="iu-Latn-CA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ja-JP.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ja-JP.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ja-JP.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ka-GE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ka-GE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ka-GE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="kk-KZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="kk-KZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="kk-KZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="kn-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="kn-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="kn-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ko-KR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ko-KR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ko-KR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="kok-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="kok-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="kok-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ky-KG.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ky-KG.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ky-KG.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="lb-LU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="lb-LU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="lb-LU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="lt-LT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="lt-LT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="lt-LT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="lv-LV.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="lv-LV.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="lv-LV.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="mi-NZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="mi-NZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="mi-NZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="mk-MK.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="mk-MK.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="mk-MK.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ml-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ml-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ml-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="mn-MN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="mn-MN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="mn-MN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="mn-Mong-CN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="mn-Mong-CN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="mn-Mong-CN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="moh-CA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="moh-CA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="moh-CA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="mr-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="mr-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="mr-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ms-BN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ms-BN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ms-BN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ms-MY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ms-MY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ms-MY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="nb-NO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="nb-NO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="nb-NO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="nl-BE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="nl-BE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="nl-BE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="nl-NL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="nl-NL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="nl-NL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="nn-NO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="nn-NO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="nn-NO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="nso-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="nso-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="nso-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="oc-FR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="oc-FR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="oc-FR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="or-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="or-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="or-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="pa-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="pa-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="pa-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="pl-PL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="pl-PL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="pl-PL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="pt-BR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="pt-BR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="pt-BR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="pt-PT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="pt-PT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="pt-PT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="quz-BO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="quz-BO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="quz-BO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="quz-EC.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="quz-EC.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="quz-EC.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="quz-PE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="quz-PE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="quz-PE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="rm-CH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="rm-CH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="rm-CH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ro-RO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ro-RO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ro-RO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ru-RU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ru-RU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ru-RU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sa-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sa-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sa-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sah-RU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sah-RU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sah-RU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="se-FI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="se-FI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="se-FI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="se-NO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="se-NO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="se-NO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="se-SE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="se-SE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="se-SE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sk-SK.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sk-SK.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sk-SK.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sl-SI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sl-SI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sl-SI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sma-NO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sma-NO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sma-NO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sma-SE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sma-SE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sma-SE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="smj-NO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="smj-NO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="smj-NO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="smj-SE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="smj-SE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="smj-SE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="smn-FI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="smn-FI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="smn-FI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sms-FI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sms-FI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sms-FI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sq-AL.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sq-AL.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sq-AL.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sv-FI.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sv-FI.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sv-FI.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sv-SE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sv-SE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sv-SE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="sw-KE.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="sw-KE.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="sw-KE.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="syr-SY.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="syr-SY.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="syr-SY.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ta-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ta-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ta-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="te-IN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="te-IN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="te-IN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="th-TH.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="th-TH.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="th-TH.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="tn-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="tn-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="tn-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="tr-TR.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="tr-TR.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="tr-TR.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="tt-RU.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="tt-RU.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="tt-RU.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="tzm-Latn-DZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="tzm-Latn-DZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="tzm-Latn-DZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ug-CN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ug-CN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ug-CN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="uk-UA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="uk-UA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="uk-UA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="ur-PK.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="ur-PK.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="ur-PK.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="uz-Cyrl-UZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="uz-Cyrl-UZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="uz-Cyrl-UZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="uz-Latn-UZ.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="uz-Latn-UZ.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="uz-Latn-UZ.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="uz-UZ-Cyrl.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="uz-UZ-Cyrl.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="uz-UZ-Cyrl.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="uz-UZ-Latn.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="uz-UZ-Latn.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="uz-UZ-Latn.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="vi-VN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="vi-VN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="vi-VN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="xh-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="xh-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="xh-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-CHS.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-CHS.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-CHS.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-CHT.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-CHT.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-CHT.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-CN.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-CN.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-CN.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-HK.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-HK.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-HK.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-MO.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-MO.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-MO.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-SG.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-SG.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-SG.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zh-TW.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zh-TW.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zh-TW.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="zu-ZA.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="zu-ZA.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="zu-ZA.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images/flags" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31498CDD-91F0-4595-B700-35B9464F9015}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BTBSSandbox</RootNamespace>
+    <AssemblyName>BTBSSandbox</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Modules\_catalogsmasterpageBindTuningTheme1_\Elements.xml" />
+    <Content Include="Modules\_catalogsmasterpage_\Elements.xml" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeBasicProjectPage.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeBlankCatalogItem.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeBlankWebpartPage.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeBodyOnly.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeEnterpriseWiki.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeError.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeImageLeft.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeImageRight.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeRedirect.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeSummaryLinks.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeWelcomeLinks.BT.aspx" />
+    <Content Include="Modules\_catalogsmasterpage_\Files\_catalogs\masterpage\TheBootstrapThemeWelcomeSplash.BT.aspx" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.svg" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\af-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-AE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-az-cyrl.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-az-latn.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-BH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-DZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-EG.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-IQ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-JO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-KW.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-LB.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-LY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-MA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-OM.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-QA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-SA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-SY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-TN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ar-YE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\arn-CL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\as-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\az-AZ-Cyrl.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\az-AZ-Latn.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\az-Cyrl-AZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\az-Latn-AZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ba-RU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\be-BY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\bg-BG.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\bn-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\bo-CN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\br-FR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ca-ES.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\co-FR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\cs-CZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\cy-GB.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\da-DK.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\de-AT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\de-CH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\de-DE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\de-LI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\de-LU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\div-MV.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\dsb-DE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\dv-MV.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\el-GR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-AU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-BZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-CA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-CB.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-GB.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-IE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-JM.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-MY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-NZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-PH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-TT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-US.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\en-ZW.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-AR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-BO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-CL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-CO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-CR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-DO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-EC.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-ES.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-GT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-HN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-MX.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-NI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-PA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-PE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-PR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-PY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-SV.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-US.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-UY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\es-VE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\et-EE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\eu-ES.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fa-IR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fi-FI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fo-FO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-BE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-CA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-CH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-FR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-LU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fr-MC.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\fy-NL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ga-IE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\gd-GB.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\gl-ES.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\gsw-FR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\gu-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\he-IL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\hi-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\hr-HR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\hsb-DE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\hu-HU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\hy-AM.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\id-ID.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ii-CN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\is-IS.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\it-CH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\it-IT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\iu-Cans-CA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\iu-Latn-CA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ja-JP.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ka-GE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\kk-KZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\kn-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ko-KR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\kok-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ky-KG.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\lb-LU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\lt-LT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\lv-LV.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\mi-NZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\mk-MK.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ml-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\mn-MN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\mn-Mong-CN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\moh-CA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\mr-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ms-BN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ms-MY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\nb-NO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\nl-BE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\nl-NL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\nn-NO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\nso-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\oc-FR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\or-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\pa-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\pl-PL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\pt-BR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\pt-PT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\quz-BO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\quz-EC.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\quz-PE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\rm-CH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ro-RO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ru-RU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sa-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sah-RU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\se-FI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\se-NO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\se-SE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sk-SK.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sl-SI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sma-NO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sma-SE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\smj-NO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\smj-SE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\smn-FI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sms-FI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sq-AL.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sv-FI.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sv-SE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\sw-KE.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\syr-SY.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ta-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\te-IN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\th-TH.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\tn-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\tr-TR.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\tt-RU.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\tzm-Latn-DZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ug-CN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\uk-UA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\ur-PK.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\uz-Cyrl-UZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\uz-Latn-UZ.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\uz-UZ-Cyrl.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\uz-UZ-Latn.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\vi-VN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\xh-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-CHS.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-CHT.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-CN.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-HK.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-MO.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-SG.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zh-TW.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\Files\Style_Library\BindTuningTheme1\images\flags\zu-ZA.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1images_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1images_\Files\Style_Library\BindTuningTheme1\images\logo.png" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1images_\Files\Style_Library\BindTuningTheme1\images\menu-down.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1images_\Files\Style_Library\BindTuningTheme1\images\menu-right.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1images_\Files\Style_Library\BindTuningTheme1\images\search.gif" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\BindMENU.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\bootstrap.min.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\BT.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\fix-responsive-WP8.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\html5shiv.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\jquery.min.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\path.js" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1js_\Files\Style_Library\BindTuningTheme1\js\respond.min.js" />
+    <None Include="Features\Feature1\Feature1.feature">
+      <FeatureId>{e9b5ba0d-eeee-48fe-9697-e8336cd50598}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <Content Include="Modules\_catalogsmasterpageBindTuningTheme1_\Files\_catalogs\masterpage\BindTuningTheme1\Default-sidebar.master" />
+    <Content Include="Modules\_catalogsmasterpageBindTuningTheme1_\Files\_catalogs\masterpage\BindTuningTheme1\Default.master" />
+    <Content Include="Modules\_catalogsmasterpageBindTuningTheme1_\Files\_catalogs\masterpage\BindTuningTheme1\MySites_Only.master" />
+    <None Include="Modules\_catalogsmasterpageBindTuningTheme1_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4ac1424f-b00b-4d03-8c03-cf31d47b9e26}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_catalogsmasterpage_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3c7baae3-3f8a-4e96-82ae-d9614e9dd0b0}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_StyleLibraryBindTuningTheme1css_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{1009e335-dbca-4ea3-8d96-f59b5c1615b0}</SharePointProjectItemId>
+    </None>
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.eot" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Files\Style_Library\BindTuningTheme1\fonts\fontawesome-webfont.woff" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1fonts_\Files\Style_Library\BindTuningTheme1\fonts\FontAwesome.otf" />
+    <None Include="Modules\_StyleLibraryBindTuningTheme1fonts_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{491e97a4-2e4e-4ffc-aabf-46ea18879220}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_StyleLibraryBindTuningTheme1imagesflags_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{367ec064-e5c1-4a94-8907-69bfa4990320}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_StyleLibraryBindTuningTheme1images_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{b1661863-091c-4c87-b3ce-6522946a52cb}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_StyleLibraryBindTuningTheme1js_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{12e7d12e-8a34-46da-9ffd-6a9a80d2dda6}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\_StyleLibraryBindTuningTheme1_\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9951f98a-4e6c-4a97-9469-1626c523f6d3}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{ebbaf8c2-7c8f-47dc-97bc-fc3409f2f5d1}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Features\Feature1\Feature1.Template.xml">
+      <DependentUpon>Feature1.feature</DependentUpon>
+    </Content>
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1css_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1css_\Files\Style_Library\BindTuningTheme1\css\font-awesome.min.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1css_\Files\Style_Library\BindTuningTheme1\css\mobile-megamenu.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1css_\Files\Style_Library\BindTuningTheme1\css\mobile-select.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1css_\Files\Style_Library\BindTuningTheme1\css\mobile-toggle.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1_\Elements.xml" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1_\Files\Style_Library\BindTuningTheme1\BindTuningTheme1.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1_\Files\Style_Library\BindTuningTheme1\BindTuningTheme1.uncompressed.css" />
+    <Content Include="Modules\_StyleLibraryBindTuningTheme1_\Files\Style_Library\BindTuningTheme1\COREV15.css" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

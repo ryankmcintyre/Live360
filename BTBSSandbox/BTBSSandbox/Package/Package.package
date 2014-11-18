@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ebbaf8c2-7c8f-47dc-97bc-fc3409f2f5d1" solutionId="d720b2e7-1699-4156-a309-f0b0bcdad4f4" resetWebServer="false" sharePointProductVersion="15.0" name="BTBSSandbox" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e9b5ba0d-eeee-48fe-9697-e8336cd50598" />
+  </features>
+</package>

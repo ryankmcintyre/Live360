@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageBindTuningTheme1_" Url="_catalogs/masterpage/BindTuningTheme1" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\BindTuningTheme1" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Path="Default-sidebar.master" Url="Default-sidebar.master" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1007302A48EE3DF06498E05A18CD3820548" />
+			<Property Name="FileLeafRef" Value="Default-sidebar.master" />
+			<Property Name="Title" Value="BindTuningTheme1 Default-sidebar master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="HtmlDesignAssociated" Value="FALSE" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="_catalogs/masterpage/BindTuningTheme1" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Path="Default.master" Url="Default.master" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1007302A48EE3DF06498E05A18CD3820548" />
+			<Property Name="FileLeafRef" Value="Default.master" />
+			<Property Name="Title" Value="BindTuningTheme1 Default master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="HtmlDesignAssociated" Value="FALSE" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="_catalogs/masterpage/BindTuningTheme1" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Path="MySites_Only.master" Url="MySites_Only.master" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1007302A48EE3DF06498E05A18CD3820548" />
+			<Property Name="FileLeafRef" Value="MySites_Only.master" />
+			<Property Name="Title" Value="BindTuningTheme1 MySites Only master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="HtmlDesignAssociated" Value="FALSE" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="_catalogs/masterpage/BindTuningTheme1" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+	</Module>
+</Elements>

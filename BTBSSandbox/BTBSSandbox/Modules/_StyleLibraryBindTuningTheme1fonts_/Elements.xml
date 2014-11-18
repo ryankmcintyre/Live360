@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_StyleLibraryBindTuningTheme1fonts_" Url="Style Library/BindTuningTheme1/fonts" RootWebOnly="FALSE" Path="Files\Style_Library\BindTuningTheme1\fonts" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="fontawesome-webfont.eot" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fontawesome-webfont.eot">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fontawesome-webfont.eot" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/fonts" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fontawesome-webfont.svg" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fontawesome-webfont.svg">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fontawesome-webfont.svg" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/fonts" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fontawesome-webfont.ttf" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fontawesome-webfont.ttf">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fontawesome-webfont.ttf" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/fonts" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="fontawesome-webfont.woff" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="fontawesome-webfont.woff">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="fontawesome-webfont.woff" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/fonts" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="FontAwesome.otf" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="FontAwesome.otf">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="FontAwesome.otf" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/fonts" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+	</Module>
+</Elements>

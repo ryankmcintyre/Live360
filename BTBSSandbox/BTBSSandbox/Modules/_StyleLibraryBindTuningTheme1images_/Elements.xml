@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_StyleLibraryBindTuningTheme1images_" Url="Style Library/BindTuningTheme1/images" RootWebOnly="FALSE" Path="Files\Style_Library\BindTuningTheme1\images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="logo.png" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="logo.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="logo.png" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="menu-down.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="menu-down.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="menu-down.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="menu-right.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="menu-right.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="menu-right.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+		<File Url="search.gif" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE" Path="search.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E5A94EF67A904941AE66C1C189D3E199" />
+			<Property Name="FileLeafRef" Value="search.gif" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="Style Library/BindTuningTheme1/images" />
+			<Property Name="FSObjType" Value="0" />
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\css\font-awesome.min.css" Target="Files\Style_Library\BindTuningTheme1\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\css\mobile-megamenu.css" Target="Files\Style_Library\BindTuningTheme1\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\css\mobile-select.css" Target="Files\Style_Library\BindTuningTheme1\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\Style_Library\BindTuningTheme1\css\mobile-toggle.css" Target="Files\Style_Library\BindTuningTheme1\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_StyleLibraryBindTuningTheme1css_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>
